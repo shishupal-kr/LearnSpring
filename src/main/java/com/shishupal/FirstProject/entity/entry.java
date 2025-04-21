@@ -16,7 +16,7 @@ public class entry {
         this.id = id;
     }
 
-    public String getTitl(){
+    public String getTitle(){
         return title;
     }
 }
